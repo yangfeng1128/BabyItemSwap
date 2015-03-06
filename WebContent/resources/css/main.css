@@ -1,0 +1,169 @@
+@CHARSET "UTF-8";
+
+  body{
+  height:100vh;
+  display:block;
+  margin: 0;
+  background-color:#fff3f7;
+  }
+  div.header{
+   position:relative;
+   text-align:center;
+   height:83px;
+   background-image:url('../images/header.jpg');
+   }
+   div.content{
+   width: 800px;
+   }
+   p.error
+   {
+   color:red;
+   font-size:small;
+   }
+  div.title{
+   padding-top: 10px;
+   color:white;
+   font-size:35px;
+   }
+   
+  #loginDiv
+  {
+  float:right;
+  align-top:10px;
+  height:30px;
+  margin-right:20px;
+  }
+   .formtable{
+   width:200px;
+   padding:10px;
+   border:1px solid gray;
+   }
+      textarea{
+   width:300px;
+   height:250px;
+   }
+   input.control
+   {
+   color:#888485;
+   }
+   
+   #loginDiv ul{
+    list-style:none;
+    padding:5px;
+    padding-top:18px;
+    margin-left:auto;
+ } 
+  #loginDiv li
+  {
+  padding-left:5px;
+  list-style:none;
+  padding-bottom:10px;
+  display:inline;
+  }
+  #topMenu{
+    display:block;
+    border-bottom:1px solid #FFD6EB;
+    width:100%;
+    clear:both;
+    height:35px;
+ }
+ #topMenu ul{
+    list-style:none;
+    padding:0;
+    padding-top:18px;
+    margin-left:auto;
+ }
+ 
+ #topMenu li{
+    list-style:none;
+    padding:0;
+    display:inline;
+ }
+ 
+  #topMenu li a, #topMenu li a:visited{
+    float:left;
+    color:#FF4791;
+    text-decoration:none;
+    text-align:center;
+    font-size:15px;
+    font-weight:bold;
+    padding:0 13px 0 13px;
+ }
+ #homeInfo{
+ color:#888485;
+ font-size: 18px;
+ 
+ }
+ 
+ div.homeDiv{
+  padding-top:10px;
+  padding-bottom:10px;
+ }
+div.homePic{
+	float:left;
+}
+
+ 
+ div.content{
+    padding-top:10px;
+    padding-left: 20px;
+ 	display:block;
+ 	background-color:#fff3f7;
+ 	height:80%;
+ 	
+ }
+  div.footer {
+    display:block;
+   	font-size:small;
+   	color:gray;
+   	text-align:center;
+   	background-color:#f5c2d1;
+   }
+   a.login{
+   color:#FF4791;
+   }
+   a.greylink
+   {
+   color:#FF4791;
+   }
+   
+    div.offerdiv{
+    color:#888485;
+    position:relative;
+   	padding:20px;
+   }
+   
+   table.formtable
+   {
+   	color:#888485;
+   
+   }
+   
+   div.toolbar
+   {
+   position:relative;
+   padding-left: 20px;
+   padding-top:10px;
+   padding-bottom:10px;
+   }
+   td.from{
+   width:200px;
+   }
+   td.subject{
+   width:500px;
+   }
+   td.name
+   {
+   width:100px;
+   }
+   td.contact
+   {
+   width:100px;
+   }
+   td.text{
+   width: 300px;
+   }
+   td.image{
+   width:50px;
+   }
+   
