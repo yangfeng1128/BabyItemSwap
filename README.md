@@ -22,4 +22,8 @@ Key technical elements/functions of the website:
 
 6. Views of web-pages are trough Apache tiles.
 
-Here are the SQL files to generate databases by forward engineering.
+Here is the SQL model file can be used to generate databases by forward engineering.
+
+https://github.com/yangfeng1128/misc/blob/master/BabyItemSwap.mwb
+
+for database used for Junit tests, the same model was used but the schema name was changed to 'SwapTest'. 
