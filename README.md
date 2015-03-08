@@ -24,6 +24,6 @@ Key technical elements/functions of the website:
 
 Here is the SQL model file can be used to generate databases by forward engineering.
 
-https://github.com/yangfeng1128/misc/blob/master/BabyItemSwap.mwb
+https://github.com/yangfeng1128/BabyItemSwap/blob/master/BabyItemSwap.mwb
 
 for database used for Junit tests, the same model was used but the schema name was changed to 'SwapTest'. 
